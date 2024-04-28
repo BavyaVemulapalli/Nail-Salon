@@ -1,3 +1,3 @@
 # Nail-Salon
 
-This is a web page for nail salon using HTML, CSS, and JavaScript.
+This is a basic web page for Nail Salon using HTML, CSS, and JavaScript.
